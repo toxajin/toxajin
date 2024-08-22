@@ -1,5 +1,1 @@
 - 👋 Hi, I’m Anton Shiriaev
-- 👀 I’m interested in developing new things
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any projects
-- 📫 anton.v.shiriaev@gmail.com

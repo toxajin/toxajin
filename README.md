@@ -1,43 +1,61 @@
-# Hi, I'm Anton Shiriaev! 👋
+# Hi, I'm Anton Shiriaev 👋
 
-I'm a dedicated software engineer with a passion for building intuitive, high-performance applications that streamline complex business processes. I specialize in designing user-centric portals that integrate tightly with ERP systems and cloud services, and I actively mentor team members to foster continuous technical growth.
+I’m a **Senior Software Engineer** with extensive experience architecting high-performance, user-centric applications and driving technological innovation. I combine deep technical expertise with strong collaborative skills, optimizing complex workflows and ensuring seamless ERP integrations across enterprise-level projects.
 
 ---
 
 ## About Me
 
-- **Innovative Developer:** I design and implement robust systems that simplify tasks—from work orders and dispatch systems to dynamic PDF generation.
-- **Mentor & Team Player:** I enjoy sharing knowledge and helping colleagues build stronger skills for long-term success.
-- **Cloud & Data Integration:** With extensive experience in AWS S3 integration and ERP system sync, I ensure secure and efficient data flow.
-- **Continuous Improvement:** I value feedback and always look for ways to refine both my technical abilities and process optimizations.
+- **Senior Engineering Professional:** I design and implement robust software systems that integrate with ERP systems and leverage modern cloud services.
+- **Innovative Problem Solver:** My work spans developing advanced work order and dispatch portals, automating dynamic workflows, and optimizing data-driven decision-making.
+- **Collaborative Team Player:** I excel in environments that value teamwork and continuous improvement.
+- **Entrepreneurial Background:** I have also co-owned a business, where I led technical innovations and strategic operations to drive market success.
 
 ---
 
-## Projects
+## Key Projects
 
 ### [KLS Earthworks Portal](https://online.klsearthworks.com)
-A comprehensive solution for KLS Earthworks & Environmental designed to optimize daily operations.
-- **Work Orders & Dispatch:** Manage work orders, dispatch operations, and track employee performance throughout the year.
-- **Employee Services:** Features include vacation booking, adding parts to work orders, costing mechanic hours, and approving hours.
-- **ERP & Cloud Integration:** All functionalities are synced with the ERP system. AWS S3 is used for secure storage of pay stubs and T4s.
-- **Corporate Goals:** Direct access to corporate goal documents via PDF links.
-- **Active Jobs Section:** (Maintained by the team while I architected and built the remaining modules.)
+A comprehensive portal built for KLS Earthworks & Environmental to streamline daily operations:
+- **Work Orders & Dispatch:** Manage and update work orders, add parts, cost mechanic hours, and approve tasks.
+- **Employee Services:** Book vacations, view performance statistics, and access corporate goal documents (via linked PDFs).
+- **ERP & Cloud Integration:** Fully synchronized with the ERP system and utilizing AWS S3 for secure storage of pay stubs and T4s.
+- **AI-Driven Invoice Processing:** Developed an automated solution that leverages AI to extract key data from scanned invoices and seamlessly integrates it with our SQL-based ERP system.
+- **Active Jobs Section:** Managed by the team while I architected and built all other modules.
 
 ### [Calgary Aggregate Portal](https://portal.calgaryaggregate.com)
-A dynamic portal built for Calgary Aggregate that offers real-time insights and document management capabilities.
-- **Live Tickets:** View and manage live service tickets.
-- **Dynamic PDF Reports:** Python scripts generate PDF reports that can be downloaded directly from the portal.
-- **Disposal Applications:** Create and submit disposal applications, with all supporting files stored securely in AWS S3.
+A dynamic portal designed to provide real-time insights and document management:
+- **Live Tickets Management:** View and manage live service tickets.
+- **Automated PDF Generation:** Python scripts generate downloadable PDF reports.
+- **Disposal Applications:** Create and submit disposal applications, with all files stored securely in AWS S3.
 
 ---
 
-## Skills & Technologies
+## Technical Skills & Technologies
 
-- **Languages:** JavaScript, Python, SQL, VBA
-- **Frameworks & Tools:** Node.js, React, Express; Python scripting for automation
-- **Cloud & DevOps:** AWS (S3), ERP systems integration
-- **Database Systems:** Relational & NoSQL databases
+- **Programming Languages:** JavaScript, Python, SQL, VBA
+- **Frameworks & Libraries:** Node.js, React, Express
+- **Cloud & DevOps:** AWS S3, Docker, ERP Systems Integration
+- **Database Systems:** MySQL, PostgreSQL, MongoDB, IndexedDB
 - **Version Control:** Git
+- **Methodologies:** Agile, Continuous Integration/Deployment
+
+---
+
+## Professional Experience
+
+- **Senior Software Engineer at KLS Earthworks & Environmental (Aug 2024 – Present):**  
+  Leading key software initiatives, strategic planning, and cross-departmental technology integration.
+  
+- **Information Systems Technician at KLS Earthworks & Environmental (Aug 2022 – Aug 2024):**  
+  Architected comprehensive portals and ERP integrations, including:
+  - **AI-Driven Invoice Processing:** Designed and implemented an AI-based system to automatically extract data from scanned invoices and integrate it with our ERP system.
+  
+- **Previous Roles:**  
+  - **Co-Owner & Information Systems Technician at Kancelyarka (Jul 2017 – Jun 2022):**  
+    Co-founded and managed a successful office supplies business. Developed a customized ERP system, built the company website, automated inventory management with VBA, and drove strategic business operations.  
+  - **Assistant Account Executive at RESO-Garantia (May 2014 – Jul 2017):**  
+    Managed client accounts, prepared technical documentation, and supported risk analysis and underwriting processes.
 
 ---
 
